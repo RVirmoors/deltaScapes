@@ -9,3 +9,9 @@ application.windows64
 application.macosx
 out
 *.asd
+deltaOdeon Project/Backup/*
+delta sigur merge
+sounds industrial
+sounds delta
+sounds drones
+drones tones
